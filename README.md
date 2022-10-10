@@ -2,7 +2,7 @@
 
 <h4>My GitHub Stats :bookmark_tabs:</h4>
 
-![Kavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavan-Dalwadi&show_icons=true&theme=github_dark)
+![Kavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavan-Dalwadi&show_icons=true)
 
 <br><br>
 
